@@ -1,6 +1,3 @@
-markdown
-Copy code
-
 # Customer Churn Prediction Model
 
 This repository contains a machine learning model that predicts customer churn. It uses several machine learning classifiers like XGBoost, Random Forest, and K-Nearest Neighbors, along with techniques for hyperparameter tuning using Grid Search and Randomized Search.
