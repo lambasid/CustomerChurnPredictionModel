@@ -16,6 +16,7 @@ def create_gauge_chart(probability):
                          'x': [0, 1],
                          'y': [0, 1]
                      },
+                     
                      title={
                          'text': "Churn Probability",
                          "font": {
